@@ -1,4 +1,4 @@
-# Financial-Insights-Dashboard-for-Bank-Loan-Analysis-
+Financial Insights Dashboard for Bank Loan Analysis 💰📊
 Welcome to my Financial Insights Dashboard, a powerful tool created using Microsoft Excel to analyze and visualize key aspects of bank loans. This dashboard is designed to provide meaningful insights into loan performance, borrower trends, and financial metrics, helping stakeholders make informed decisions.
 
 🛠️ Features:
