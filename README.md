@@ -1,3 +1,6 @@
+![1](https://github.com/user-attachments/assets/7f2e1381-896c-4e20-92ed-a03e805d431c)
+![2](https://github.com/user-attachments/assets/7daa9a45-a55f-4054-b2b2-a5ef9c02b339)
+
 Financial Insights Dashboard for Bank Loan Analysis 💰📊
 Welcome to my Financial Insights Dashboard, a powerful tool created using Microsoft Excel to analyze and visualize key aspects of bank loans. This dashboard is designed to provide meaningful insights into loan performance, borrower trends, and financial metrics, helping stakeholders make informed decisions.
 
